@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/sem3/gameprog/JSFinal/TinyRunner/TinyRunner/Content/fonts/HilightFont.spritefont</SourceFile>
+  <SourceTime>2023-11-17T17:13:20-05:00</SourceTime>
+  <DestFile>C:/sem3/gameprog/JSFinal/TinyRunner/TinyRunner/Content/bin/Windows/fonts/HilightFont.xnb</DestFile>
+  <DestTime>2023-12-11T22:26:35.3489176-05:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2022-07-26T07:44:56-04:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2022-07-26T07:44:56-04:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

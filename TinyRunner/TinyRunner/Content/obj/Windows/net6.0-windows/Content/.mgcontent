@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/sem3/gameprog/JSFinal/TinyRunner/TinyRunner/Content/fonts/FinalFont.spritefont</File>
+    <File>C:/sem3/gameprog/JSFinal/TinyRunner/TinyRunner/Content/fonts/HilightFont.spritefont</File>
+    <File>C:/sem3/gameprog/JSFinal/TinyRunner/TinyRunner/Content/fonts/RegularFont.spritefont</File>
+    <File>C:/sem3/gameprog/JSFinal/TinyRunner/TinyRunner/Content/images/AboutPage_PurpleBoard.png</File>
+    <File>C:/sem3/gameprog/JSFinal/TinyRunner/TinyRunner/Content/images/ActionPage_Ground.png</File>
+    <File>C:/sem3/gameprog/JSFinal/TinyRunner/TinyRunner/Content/images/ActionPage_Sky.png</File>
+    <File>C:/sem3/gameprog/JSFinal/TinyRunner/TinyRunner/Content/images/Apple.png</File>
+    <File>C:/sem3/gameprog/JSFinal/TinyRunner/TinyRunner/Content/images/ArrowButton_1.png</File>
+    <File>C:/sem3/gameprog/JSFinal/TinyRunner/TinyRunner/Content/images/ArrowButton.png</File>
+    <File>C:/sem3/gameprog/JSFinal/TinyRunner/TinyRunner/Content/images/background.png</File>
+    <File>C:/sem3/gameprog/JSFinal/TinyRunner/TinyRunner/Content/images/EndingPage_Background.png</File>
+    <File>C:/sem3/gameprog/JSFinal/TinyRunner/TinyRunner/Content/images/HelpPage_Background.png</File>
+    <File>C:/sem3/gameprog/JSFinal/TinyRunner/TinyRunner/Content/images/Run (64x64).png</File>
+    <File>C:/sem3/gameprog/JSFinal/TinyRunner/TinyRunner/Content/images/Spike.png</File>
+    <File>C:/sem3/gameprog/JSFinal/TinyRunner/TinyRunner/Content/images/StartPage_Title.png</File>
+    <File>C:/sem3/gameprog/JSFinal/TinyRunner/TinyRunner/Content/sounds/BackgroundMusic.mp3</File>
+    <File>C:/sem3/gameprog/JSFinal/TinyRunner/TinyRunner/Content/sounds/Collect.wav</File>
+    <File>C:/sem3/gameprog/JSFinal/TinyRunner/TinyRunner/Content/sounds/Dead.wav</File>
+    <File>C:/sem3/gameprog/JSFinal/TinyRunner/TinyRunner/Content/sounds/Hit.wav</File>
+    <File>C:/sem3/gameprog/JSFinal/TinyRunner/TinyRunner/Content/sounds/Jump.wav</File>
+    <File>C:/sem3/gameprog/JSFinal/TinyRunner/TinyRunner/Content/sounds/PageChange.wav</File>
+    <File>C:/sem3/gameprog/JSFinal/TinyRunner/TinyRunner/Content/sounds/StartSceneBackgroundMusic.mp3</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

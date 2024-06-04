@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/sem3/gameprog/JSFinal/TinyRunner/TinyRunner/Content/sounds/BackgroundMusic.mp3</SourceFile>
+  <SourceTime>2023-12-10T13:16:02-05:00</SourceTime>
+  <DestFile>C:/sem3/gameprog/JSFinal/TinyRunner/TinyRunner/Content/bin/Windows/sounds/BackgroundMusic.xnb</DestFile>
+  <DestTime>2023-12-11T22:26:37.0076914-05:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2022-07-26T07:44:56-04:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2022-07-26T07:44:56-04:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/sem3/gameprog/JSFinal/TinyRunner/TinyRunner/Content/bin/Windows/sounds/BackgroundMusic.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>
